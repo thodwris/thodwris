@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-theodoros-kokosioulis-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/theodoros-kokosioulis)
+[![Linkedin Badge](https://img.shields.io/badge/-thodwris-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/theodoros-kokosioulis)
 
 <!--
 **thodwris/thodwris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
